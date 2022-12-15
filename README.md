@@ -17,4 +17,4 @@ I'm always up for projects on these topics, gets me fired up!
 You can always find me on Hack The Box, Vulnhub, and other CTF websites, I also have a Youtube channel where I upload machine walkthroughs and other security stuff
 
 [ ![sakai01](https://www.hackthebox.eu/badge/image/243063)](https://www.hackthebox.eu/home/users/profile/243063)
-[ ![sakai01]()](https://www.youtube.com/channel/UCaw5n4PP25xIEVPILKWaMYg)
+[ ![sakai01](https://i.imgur.com/X7egqYZ.jpg)](https://www.youtube.com/channel/UCaw5n4PP25xIEVPILKWaMYg)
