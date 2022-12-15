@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anirban!
 - 👀 I’m interested in Penetration Testing, Malware Analysis, Reverse Engineering and Exploit Development
-- 🌱 I’m currently learning Machine Learning models
-- 💞️ I’m looking to collaborate on future Cyber+ML projects
+- 💞️ I’m looking to collaborate on future Cyber
 - 📫 How to reach me: my personal email is anirbanchak08@gmail.com
 
 <!---
