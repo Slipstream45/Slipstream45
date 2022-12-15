@@ -15,6 +15,7 @@ and Always ready to PWN!
 
 I'm always up for projects on these topics, gets me fired up!
 You can always find me on Hack The Box, Vulnhub, and other CTF websites, I also have a Youtube channel where I upload machine walkthroughs and other security stuff
+If you want to reach me via mail, please do so at "anir026(at)proton.me"
 
 [ ![sakai01](https://www.hackthebox.eu/badge/image/243063)](https://www.hackthebox.eu/home/users/profile/243063)
 [ ![sakai01](https://i.imgur.com/rJnW5oi.gif)](https://www.youtube.com/channel/UCaw5n4PP25xIEVPILKWaMYg)
